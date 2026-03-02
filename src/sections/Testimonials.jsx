@@ -1,23 +1,26 @@
 import { motion } from "framer-motion";
+import techImg from "../assets/tech.png";
+import ceoImg from "../assets/ceo.png";
+import startImg from "../assets/start.png";
 
 const testimonials = [
   {
     name: "Priya Sharma",
     role: "Founder, TechStart",
     quote: "LaunchMyPortfolio completely transformed our online presence. Leads and engagement skyrocketed!",
-    img: "/assets/client1.jpg",
+    img: techImg,
   },
   {
     name: "Rohan Mehta",
     role: "CEO, EcomMart",
     quote: "Professional, fast, and extremely creative. Highly recommended for any growing business.",
-    img: "/assets/client2.jpg",
+    img: ceoImg,
   },
   {
     name: "Sneha Kapoor",
     role: "Marketing Head, StartupX",
     quote: "The design and strategy were spot on — our conversion rate increased significantly!",
-    img: "/assets/client3.jpg",
+    img: startImg,
   },
 ];
 

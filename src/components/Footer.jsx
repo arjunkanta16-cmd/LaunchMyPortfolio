@@ -23,8 +23,8 @@ export default function Footer() {
         </div>
         <div>
           <h5 className="font-semibold mb-2">Contact</h5>
-          <p>Email: hello@launchmyportfolio.com</p>
-          <p>Phone: +91 1234567890</p>
+          <p>Email: launchmyportfolio@gmail.com</p>
+          <p>Phone: +91-9121078483</p>
         </div>
       </div>
       <div className="text-center mt-12 text-gray-500">
