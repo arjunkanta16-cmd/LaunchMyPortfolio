@@ -7,8 +7,8 @@ import Services from "../sections/Services";
 import Portfolio from "../sections/Portfolio";
 import Process from "../sections/Process";
 import Testimonials from "../sections/Testimonials";
+import Pricing from "../sections/pricing";
 import Contact from "../sections/Contact";
-
 
 export default function Home() {
   return (
@@ -20,6 +20,7 @@ export default function Home() {
       <Portfolio />
       <Process />
       <Testimonials />
+      <Pricing />
       <Contact />
       <Footer />
     </>
