@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import ecomImg from "../assets/ecom.png";
-import saasImg from "../assets/Saas.png";
+import saasImg from "../assets/SaaS.png";
 import startupImg from "../assets/startup.png";
 
 const projects = [
